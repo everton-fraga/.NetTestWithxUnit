@@ -1,0 +1,12 @@
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.deps.json
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.dll
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.csprojAssemblyReference.cache
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.dll
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\ref\PrimeService.dll
+C:\Learn\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.pdb
