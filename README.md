@@ -1,2 +1,2 @@
 # .NetTestWithxUnit
-Exemplo de um projeto simples usando teste unitário em .Net5 e xUnit
+Exemplo de um projeto simples usando teste unitário automatizado em .Net e xUnit
